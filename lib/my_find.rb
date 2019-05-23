@@ -11,5 +11,4 @@ def my_find(collection)
       end
       i +=1 
     end
-    x
 end
